@@ -92,22 +92,6 @@ where:
 - Random Forest Classifier
 
 
-## Project Structure
-
-Titanic-Survival-Prediction/
-│
-├── data/
-│   ├── train.csv
-│   ├── test.csv
-│   └── gender_submission.csv
-│
-├── 03_Titanic_Notebook.ipynb
-│
-├── 04_Titanic_submission.csv
-│
-└── README.md
-
-
 # Workflow
 
 
